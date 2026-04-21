@@ -56,7 +56,7 @@ export default function Home() {
         <div className="flex flex-col justify-center transition-transform duration-500 group-hover:translate-x-1">
           <h2 className="mb-3 text-2xl">
             Company Location:
-            <span className="ml-2 text-primary">Bahair</span>
+            <span className="ml-2 text-primary">Ethiopia, Bahir Dar, Kebelle 18</span>
           </h2>
           <p className="text-muted-foreground transition-colors duration-500 group-hover:text-foreground/90">
             Our support and rental office is located in Bahair. Visit us for quick booking help,

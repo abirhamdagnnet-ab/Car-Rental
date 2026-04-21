@@ -15,7 +15,7 @@ export default function Footer({ className = '' }) {
         <div className="grid gap-2 text-muted-foreground">
           <p className="inline-flex items-center gap-2">
             <MapPin className="h-4 w-4 text-primary" />
-            Bahair
+            Ethiopia, Bahir Dar, Kebelle 18
           </p>
           <p className="inline-flex items-center gap-2">
             <Phone className="h-4 w-4 text-primary" />
